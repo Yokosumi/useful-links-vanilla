@@ -2,8 +2,9 @@ import { PageComponents } from "./pages/PageComponents";
 import { PageIcons } from "./pages/PageIcons";
 import { PageGenerators } from "./pages/PageGenerators";
 import * as tools from "./tools";
+import { PageConverter } from "./pages/PageConverter";
 
-const pageNames = ["Components", "Icons", "Generators"];
+const pageNames = ["Components", "Icons", "Generators", "Converter"];
 
 const currentPageIdCode = getSmartCurrentPageId();
 
@@ -16,6 +17,8 @@ export const getCurrentPage = () => {
       return PageIcons();
     case "generators":
       return PageGenerators();
+    case "converter":
+      return PageConverter();
     default:
       return "404 Error";
   }
