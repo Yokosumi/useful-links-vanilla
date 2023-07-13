@@ -13,7 +13,7 @@ This is a multi-page HTML/CSS/JavaScript site created with Vite Vanilla option. 
 - dark layout
 - TypeScript
 - one **Sass** file
-- *good for developers who don't yet have React skills but who want to make multi-page sites with a modern React-like framework that has npm packages, can load JSON files from the file system, and you can easily publish at Vercel, etc.*
+- _good for developers who don't yet have React skills but who want to make multi-page sites with a modern React-like framework that has npm packages, can load JSON files from the file system, and you can easily publish at Vercel, etc._
 
 ## install
 
@@ -27,3 +27,5 @@ This is a multi-page HTML/CSS/JavaScript site created with Vite Vanilla option. 
 ## more starters, templates and frameworks
 
 https://starters.tanguay.eu
+
+sel
