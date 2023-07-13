@@ -1,21 +1,21 @@
+import { PageComponents } from "./pages/PageComponents";
+import { PageIcons } from "./pages/PageIcons";
+import { PageGenerators } from "./pages/PageGenerators";
 import * as tools from "./tools";
-import { PageWelcome } from "./pages/PageWelcome";
-import { PageInfo } from "./pages/PageInfo";
-import { PageAbout } from "./pages/PageAbout";
 
-const pageNames = ["Welcome", "Info", "About"];
+const pageNames = ["Components", "Icons", "Generators"];
 
 const currentPageIdCode = getSmartCurrentPageId();
 
 export const getCurrentPage = () => {
   switch (currentPageIdCode) {
     case "":
-    case "welcome":
-      return PageWelcome();
-    case "info":
-      return PageInfo();
-    case "about":
-      return PageAbout();
+    case "components":
+      return PageComponents();
+    case "icons":
+      return PageIcons();
+    case "generators":
+      return PageGenerators();
     default:
       return "404 Error";
   }
