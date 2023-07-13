@@ -1,5 +1,8 @@
+import { ItemCards } from "../components/ItemCards";
+import icons from "../data/icons.json";
+
 export const PageIcons = () => {
   return /*html*/ `
-	<p>this is the icons page.</p>
+	${ItemCards(icons)}
 `;
 };

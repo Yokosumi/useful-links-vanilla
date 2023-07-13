@@ -2,15 +2,15 @@
   {
     "name": "lordicons",
     "url": "https://lordicon.com/",
-    "image": "/images/lordicon.JPG",
+    "image": "../../public/img/lordicons.png",
     "description": "Lordicon.com ist eine Website für animierte Icons. Benutzer können Icons suchen, anpassen und herunterladen. Vielfältige Kategorien und Stile sind verfügbar. Perfekt für Websites, Apps und Präsentationen.",
     "badge": "Icons"
   },
   {
-    "name ": "boxicons ",
-    "url ": "https://boxicons.com ",
-    "image ": "../../public/img/boxicons.png ",
-    "description ": "Squoosh.app is a powerful image compression tool. It allows you to reduce image size while maintaining quality. Fast, intuitive, and web-based, it's perfect for optimizing images for websites or sharing them online.",
+    "name": "boxicons ",
+    "url": "https://boxicons.com ",
+    "image": "../../public/img/boxicons.png ",
+    "description": "Squoosh.app is a powerful image compression tool. It allows you to reduce image size while maintaining quality. Fast, intuitive, and web-based, it's perfect for optimizing images for websites or sharing them online.",
     "badge": "Icons"
   }
 ]
