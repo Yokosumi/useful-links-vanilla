@@ -1,9 +1,8 @@
-import './styles/main.scss';
-import { getMenu, getCurrentPage } from './Router';
+import "./main.css";
+import { getMenu, getCurrentPage } from "./Router";
 
-document.querySelector<HTMLDivElement>('#app')!.innerHTML =/* html */`
-<header>
-	<h1>Info Site</h1>
+document.querySelector<HTMLDivElement>("#app")!.innerHTML = /* html */ `
+<header class="bg-primary p-2">
 	<nav>
 		${getMenu()}
 	</nav>
