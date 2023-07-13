@@ -27,5 +27,3 @@ This is a multi-page HTML/CSS/JavaScript site created with Vite Vanilla option. 
 ## more starters, templates and frameworks
 
 https://starters.tanguay.eu
-
-sel
