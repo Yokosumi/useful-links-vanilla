@@ -1,0 +1,9 @@
+[
+  {
+    "name": "animista",
+    "url": "https://animista.net",
+    "image": "../../public/img/animista.png",
+    "description": "Animista.net is a fantastic online tool for creating and customizing CSS animations. With a wide range of pre-made animations and easy-to-use controls, it's perfect for adding dynamic and engaging visuals to your website or projects.",
+    "badge": "Generator"
+  }
+]
