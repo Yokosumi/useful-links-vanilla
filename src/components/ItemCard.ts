@@ -1,7 +1,6 @@
-// @ts-nocheck
+import { IItemCard } from "../interfaces";
 
-export const ItemCard = (icon) => {
-  console.log(icon);
+export const ItemCard = (icon: IItemCard) => {
   return /*html*/ `
  <div class="card w-96 bg-neutral shadow-xl mt-3">
     <figure class="bg-white">
