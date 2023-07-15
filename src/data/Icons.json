@@ -2,14 +2,12 @@
   {
     "name": "lordicons",
     "url": "https://lordicon.com/",
-    "image": "../../public/img/lordicons.png",
     "description": "Lordicon.com ist eine Website für animierte Icons. Benutzer können Icons suchen, anpassen und herunterladen. Vielfältige Kategorien und Stile sind verfügbar. Perfekt für Websites, Apps und Präsentationen.",
     "badge": "Icons"
   },
   {
-    "name": "boxicons ",
+    "name": "boxicons",
     "url": "https://boxicons.com ",
-    "image": "../../public/img/boxicons.png ",
     "description": "Boxicons.com is a comprehensive library of vector icons, providing a vast collection of modern and customizable icons for web and app design.",
     "badge": "Icons"
   }
